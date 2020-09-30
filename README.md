@@ -1,2 +1,7 @@
-# machine-learning-complete-code-
-some of the code notebooks which i used for machine learning 
+#libaries necesarry:
+scikit-learn
+sklearn
+numpy
+pandas
+matplotlib
+seaborn
