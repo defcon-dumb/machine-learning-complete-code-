@@ -1,0 +1,86 @@
+							MACHINE LEARNING
+
+lisp programming language.. was developed by the father of ai
+ai's subclasses are deep learning and machine learning 
+
+the types of machine learning are::
+
+1) Supervised learning                 2) Unsupervised learning             3)Reinforcement learning
+-> Predicting class                    -> Data driven                       -> Learn from mistakes
+-> Output is given as labels           -> Output is not given
+                                       -> Identify clusters
+
+1) Supervised learning::
+
+-> the goal is to predict the output (Y) and takes an input (X)
+-> here we split the values.. we take the function (f)
+-> we split the f for training data too 
+
+i) Types of supervised learning::
+1. Classification 
+2. Regression
+
+
+1. Classification Class:                                      2.Regression class
+-> here we have only categorial cases 				-> here we predict the real value
+-> we sort the items into the categories 			-> we have to predict the real numbers or continuous classes
+-> eg: if we want to sort the children as male or female.	->eg: predicting the age of people
+
+ii) Supervised learning algorithms::
+-> linear regression
+-> logistic regression
+-> support vector machines
+-> decision trees 
+
+
+
+2) Unsupervised learning::
+->the model is trained only with the inputs, no output is given 
+->the input data undergoes an algorithm after the interpration where the data is collected untrained 
+
+i) types of unsupervised learning::
+1.Clustering 
+2.Association
+
+1.Clustering class:
+-> Discover groups 
+2.Association class:
+->Discover rules
+
+ii) Unsupervised learning algorithms::
+-> K-means clustering
+-> principal component analysis
+-> apriori algorithm
+->hierarchical clustering 
+
+
+
+3)Reinforcement learning::
+->this learning agents are goal-oriented
+->they learn by trial and error method 
+->this should be given by penalties and rewards
+->the agent is also called the model,the environment is the state and the goal is the output
+->the main aim is to find the best path or way that maximizes the winning reward
+
+
+i)Types of reinforcement learning:
+1. Positive reinforecement 
+2. Negative reinforcdment
+
+1.Positive reinforcement:
+->the stimulus is added to increase the livelihood of the behavior of the model
+
+2.Negative reinforcement:
+->the stimulus is removed to increase the livelihood of the behavior of the model 
+
+
+ii)Reinforcement learning algorithms:
+-> Monte carlo
+-> q-learning
+-> deep q network 
+-> q-lambda
+-> sarsa-lambda 
+
+
+ 
+
